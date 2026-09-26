@@ -1,6 +1,7 @@
 # luciemcgee.github.io
 # Lucie McGee
-![Alt text](<img width="480" height="640" alt="IMG_2833 (1)" src="https://github.com/user-attachments/assets/3a436162-5ba9-495b-8b6a-0e40f223f555" />)
+![Alt text](<img width="480" height="640" alt="IMG_2833" src="https://github.com/user-attachments/assets/b4540452-fadf-44e7-943b-6d50b5479889" />
+)
 Welcome to my GitHub page!
 
 I am a computer science student at Boise State University.
